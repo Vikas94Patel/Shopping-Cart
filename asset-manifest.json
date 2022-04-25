@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Shopping-Cart/static/css/main.bab7d2eb.chunk.css",
+    "main.js": "/Shopping-Cart/static/js/main.dbbfa828.chunk.js",
+    "main.js.map": "/Shopping-Cart/static/js/main.dbbfa828.chunk.js.map",
+    "runtime-main.js": "/Shopping-Cart/static/js/runtime-main.8489cb30.js",
+    "runtime-main.js.map": "/Shopping-Cart/static/js/runtime-main.8489cb30.js.map",
+    "static/js/2.b615c88e.chunk.js": "/Shopping-Cart/static/js/2.b615c88e.chunk.js",
+    "static/js/2.b615c88e.chunk.js.map": "/Shopping-Cart/static/js/2.b615c88e.chunk.js.map",
+    "index.html": "/Shopping-Cart/index.html",
+    "static/css/main.bab7d2eb.chunk.css.map": "/Shopping-Cart/static/css/main.bab7d2eb.chunk.css.map",
+    "static/js/2.b615c88e.chunk.js.LICENSE.txt": "/Shopping-Cart/static/js/2.b615c88e.chunk.js.LICENSE.txt",
+    "static/media/bodycleaner1.bb6eb0c1.png": "/Shopping-Cart/static/media/bodycleaner1.bb6eb0c1.png",
+    "static/media/bodycleaner2.a55b3c2e.png": "/Shopping-Cart/static/media/bodycleaner2.a55b3c2e.png",
+    "static/media/bodycleaner3.ceaa31af.png": "/Shopping-Cart/static/media/bodycleaner3.ceaa31af.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8489cb30.js",
+    "static/js/2.b615c88e.chunk.js",
+    "static/css/main.bab7d2eb.chunk.css",
+    "static/js/main.dbbfa828.chunk.js"
+  ]
+}
