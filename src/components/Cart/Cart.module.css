@@ -1,0 +1,46 @@
+.font {
+    font-family: 'Abhaya Libre';
+}
+
+.bg-lightgreen {
+    padding: 1rem;
+    background-color: #F0F9F4;
+}
+
+
+.submitNote {
+    /* text-align: center; */
+    /* width: 50%; */
+    margin : 5%;
+  }
+  
+  
+  .actions {
+    text-align: right;
+  }
+  
+  .actions button {
+    font: inherit;
+    cursor: pointer;
+    background-color: transparent;
+    border: 1px solid #007E3D;
+    padding: 0.5rem 2rem;
+    border-radius: 25px;
+    margin: 1rem;
+  }
+  
+  .actions button:hover,
+  .actions button:active {
+    background-color: #0bb55d;
+    border-color: #0bb55d;
+    color: white;
+  }
+  
+  .actions .button--alt {
+    color: #007E3D;
+  }
+  
+  .actions .button {
+    background-color: #007E3D;
+    color: white;
+  }
