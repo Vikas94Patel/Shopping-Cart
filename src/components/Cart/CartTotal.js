@@ -25,8 +25,8 @@ const CartTotal = (props) => {
                 <p>Shipping</p>
                 </div>
                 <div className="col-sm-6">
-                {totalAmount < 1000 && <p className="font-weight-bold">Free</p>}
-                {totalAmount >= 1000 && <p className="text-success font-weight-bold">₹{shippingCharge.toFixed(2)}</p>}
+                {totalAmount >= 1000 && <p className="font-weight-bold">Free</p>}
+                {totalAmount < 1000 && <p className="text-success font-weight-bold">₹{shippingCharge.toFixed(2)}</p>}
                 </div>
             </div>
             <ColoredLine />
@@ -35,8 +35,8 @@ const CartTotal = (props) => {
                 <p>Total</p>
                 </div>
                 <div className="col-sm-6">
-                {totalAmount < 1000 && <p className="text-success font-weight-bold">₹{totalAmount.toFixed(2)}</p>}
-                {totalAmount >= 1000 && <p className="text-success font-weight-bold">₹{payableAmount.toFixed(2)}</p>}
+                {totalAmount >= 1000 && <p className="text-success font-weight-bold">₹{totalAmount.toFixed(2)}</p>}
+                {totalAmount < 1000 && <p className="text-success font-weight-bold">₹{payableAmount.toFixed(2)}</p>}
                 </div>
             </div>
             <div className="row">
